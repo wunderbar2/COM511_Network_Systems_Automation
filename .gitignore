@@ -69,3 +69,4 @@ core-deploy/
 
 # used for shared ansible ssh keys
 .ssh-ansible
+/.metadata/
